@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+  background-color: #f7f7f7;
+}
+
+.container {
+  margin: 0 160px;
+}
+
+.header-line {
+  padding-top: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-right: 400px;
+}
+
+.nav-item {
+  color: black;
+  text-decoration: none;
+  margin-left: 30px;
+  padding-left: 15px;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.nav-es {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.nav-ua {
+  margin-left: 80px;
+}
